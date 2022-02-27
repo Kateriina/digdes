@@ -22,7 +22,7 @@ public interface DatesToCronConverter {
      *  Method to get infofmation about interface implementation,
      *  author, name, package
      *
-     * @return implementation info
+     * @return
      */
     String getImplementationInfo();
 
